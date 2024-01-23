@@ -1,21 +1,21 @@
-vCard - Personal Portfolio
+Dickson Okuta - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Dickson Okuta
+Dickson Okuta
+Sata Analyst
 
 Show Contacts
 
 Email
-richard@example.com
+dickson.okuta@gmail.com
 
 Phone
 +1 (213) 352-2795
 
 Birthday
-June 23, 1982
+August 27, 1992
 
 Location
 Sacramento, California, USA
